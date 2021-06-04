@@ -19,3 +19,4 @@ files = open("C:\Users\juczi\Desktop\Proton-Username-Check" + file, "r")
  
  ## Warning
  Some unavailable usernames may be flagged as Available. I havent really found a fix to this yet.
+ This may mean the account has been blocked by ProtonMail previously.
