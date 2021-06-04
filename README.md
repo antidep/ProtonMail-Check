@@ -18,4 +18,4 @@ files = open("C:\Users\juczi\Desktop\Proton-Username-Check" + file, "r")
  ```
  
  ## Warning
- Some available usernames may be flagged as Unknown & vice versa. I havent really found a fix to this yet.
+ Some unavailable usernames may be flagged as Available. I havent really found a fix to this yet.
