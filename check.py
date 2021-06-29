@@ -24,7 +24,7 @@ def check_username(email):
 
 def list():
     file = input('File:')
-    files = open("xxx" + file, "r") #Full directory to the folder
+    files = open(file, "r")
     words = files.read().split('\n')
     for i in range(len(words)):
         email = words[i]
