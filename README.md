@@ -10,12 +10,6 @@ pip install colorama
 ## Usage
 Manual checking - Option 1
 List checking - Option 2
-
-↳ Make sure to set the full  directory in check.py
- e.g:
- ```python
-files = open("C:\Users\juczi\Desktop\Proton-Username-Check" + file, "r")
- ```
  
  ## Warning
  Some unavailable usernames may be flagged as Available. I havent really found a fix to this yet.
